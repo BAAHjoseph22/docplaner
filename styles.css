@@ -1,0 +1,51 @@
+li{
+    display: inline;
+    margin-inline: 5px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 100px;
+}
+.titre{
+    font-size: 30px;
+    color: #00B3AB;
+}
+.contenu{
+    font-size: 20px ;
+    display: flex ;
+    justify-content: space-between;
+     
+}
+.centrer{
+ text-align: center;
+ margin-inline: 100px;
+}
+.paragraphe{
+    width: 47%;
+    text-align: left;
+}
+.carreau{
+  background-color:#00CCB1 ;
+  width: 325px;
+  font-size: 30px;
+  color: white;
+  padding: 15px;
+  margin: 5px;
+}
+.carreau2{
+background-color: #3D83DF;
+}
+.carreau3{
+ background-color:#1B2734
+}
+.bloc1{
+    display: flex;
+}
+
+
+
+    
+
+
+
