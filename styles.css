@@ -42,6 +42,18 @@ background-color: #3D83DF;
 .bloc1{
     display: flex;
 }
+.bloc2{
+font-size: 25px;
+ color:#00CCB1 ;
+ display: flex;
+ align-items:center;
+}
+.seriesLetres{
+    width: 35%;
+}
+
+
+
 
 
 
